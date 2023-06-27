@@ -5,10 +5,10 @@
 
 <div>
   <a href="https://github.com/gabspietro">
-    <img width=42% align="center" src="https://github-readme-stats.vercel.app/api?username=gabspietro&show_icons=true&theme=radical&include_all_commits=true" />
+    <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=gabspietro&show_icons=true&theme=radical&include_all_commits=true" />
   </a>
   <a href="https://github.com/gabspietro">
-    <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabspietro&layout=compact&langs_count=8&card_width=300&theme=radical" />
+    <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabspietro&layout=compact&langs_count=8&card_width=300&theme=radical" />
   </a>
 </div>
 
